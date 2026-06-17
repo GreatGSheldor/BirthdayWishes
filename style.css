@@ -128,7 +128,7 @@ a:hover .hoverimage {
   font-size: 4rem;
   text-align: center;
 
-  margin-top: 300px;
+  margin: 20px 0;
 
   transform: rotate(-2deg);
 
@@ -137,14 +137,4 @@ a:hover .hoverimage {
     6px 6px 0 #ffd966;
 
   animation: wiggle 2s ease-in-out infinite;
-}
-
-@keyframes wiggle {
-  0%, 100% {
-    transform: rotate(-2deg);
-  }
-
-  50% {
-    transform: rotate(2deg);
-  }
 }
