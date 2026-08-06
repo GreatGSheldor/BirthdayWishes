@@ -6,14 +6,6 @@ BirthdayWishes is a simple collection of personalized birthday pages made to tur
 
 Custom wishes, animations, music, and a few personal touches — because sometimes a message deserves its own website.
 
-✨ Features
-
-- 🎂 Personalized birthday wishes
-- 🎨 Custom pages & animations
-- 🎵 Background piano music
-- 💻 Lightweight & browser-based
-- ❤️ Made for friends
-
 📂 Structure
 
 BirthdayWishes/
@@ -29,16 +21,6 @@ BirthdayWishes/
 ├── happy-birthday-to-you-piano-version-13976.mp3
 └── README.md
 
-🚀 Run
-
-git clone https://github.com/GreatGSheldor/BirthdayWishes.git
-cd BirthdayWishes
-
-Open "index.html" in your browser, or run:
-
-python -m http.server 8000
-
-Then visit "http://localhost:8000".
 
 🛠️ Built With
 
@@ -54,7 +36,7 @@ Making an entire website at 2AM because someone matters is slightly more fun.
 
 A few selected people who are worth the effort.
 
-Currently featuring:
+frnds done:
 
 - Vahin
 - Harnoor
@@ -65,6 +47,5 @@ A personal project made for friends. Please don't reuse the personal messages or
 
 ---
 
-⭐ If you somehow found this repo... you weren't supposed to.
 
 Happy Birthday. 🎂
